@@ -24,5 +24,5 @@ O código cria e modifica duas matrizes (`matriz` e `matriz2`), aplicando regras
 1. Clone este repositório:
    ```bash
    git clone https://github.com/uesleisouza33/exerciciosmatrizes
-2. cd nome-do-repositorio
+2. cd exerciciosmatrizes
 3. node exerciciosMatrizes.js
